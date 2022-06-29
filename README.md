@@ -1,10 +1,10 @@
-# GSH Task
-## _Tasos Valeras_
+# Leaflet Project
+## _Anastasios Valeras_
 
 https://github.com/carvex21
 
 
-Το project αυτό έγινε στα πλαίσια της συνέντευξης για τη θέση του Full Stack Developer στην εταιρία GeoSystems Hellas.
+Full Stack Dev Project
 
 ## Δομή του Project
 
